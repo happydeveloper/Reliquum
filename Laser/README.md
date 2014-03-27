@@ -24,5 +24,6 @@
 ## 응용
 
 
-[레이져커팅과정](http://www.esab-cutting.com/products/laser-cutting-process.html)
-[레이져커팅제품](http://www.cnccheap.com/index.php?route=product/product&product_id=68)
+## 참조
+- [레이져커팅과정](http://www.esab-cutting.com/products/laser-cutting-process.html)
+- [레이져커팅제품](http://www.cnccheap.com/index.php?route=product/product&product_id=68)
